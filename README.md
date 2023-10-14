@@ -12,4 +12,5 @@ Website for Logistics company
 - [x] humans.txt
 - [ ] Google Form - embed link iframe
 - [ ] Google Business
-- [ ]
+- [ ] Google Phone Number
+- [ ] Domain
