@@ -5,37 +5,45 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Abby's Freight Logistics</title>
+</head>
+<body>
     <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "ProfessionalService",
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.example.com/contact"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-925-727-5991",
+      "contactType": "customer service",
+      "contactOption": "TollFree",
+      "areaServed": {
+        "@type": "Place",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "Tracy",
-            "addressRegion": "CA",
-            "postalCode": "95304",
-            "streetAddress": "2223 Mount Pellier Street"
+            "addressRegion": "CA"
         },
-        "name": "Abby's Freight Logistics",
-        "openingHours": [
-            "Mo-Su 8:00-16:00"
-        ],
-        "areaServed": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Tracy",
-                "addressRegion": "CA"
-            },
-            "geoRadius": 500
-        },
-        "telephone": "(925) 727-5991",
-        "url": "TBA"
-        }
-    </script>
-</head>
-<body>
-    <p>Contact</p>
+        "geoRadius": "500 miles"
+      },
+      "availableLanguage": ["English", "Spanish"],
+      "contactHours": "Mo-Su 08:00-16:00"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2223 Mount Pellier Street",
+      "addressLocality": "Tracy",
+      "addressRegion": "CA",
+      "postalCode": "95304",
+      "addressCountry": "USA"
+    }
+  }
+</script>
+<p>Contact</p>
+<p>Abby's Freight Logistics</p>
 </body>
 </html>
   
