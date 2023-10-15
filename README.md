@@ -6,7 +6,7 @@ Website for Logistics company
 
 - [x] base site... header / footer, structure of app
   - [x] Home - https://schema.org/LocalBusiness
-  - [x] Contact - https://chat.openai.com/share/d21b0178-697d-469a-ac7f-639d2ccbdcd2
+  - [x] Contact
   - [x] Bootstrap styling example
   - [x] upsplash stock photos for box trucks
 - [x] humans.txt
