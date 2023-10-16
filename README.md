@@ -13,7 +13,8 @@ Website for Logistics company
 - [x] Google Form - embed link iframe
 - [ ] Google Business
 - [x] Edit Contact Form on index.html - Add email link when Google Business is set up 
-- [ ] Google Phone Number
-- [ ] Google Analytics
-- [ ] Google Translate
-- [ ] Domain
+- [x] Google Phone Number
+- [x] Google Analytics
+- [x] Google Translate
+- [x] Domain
+- readme.so
