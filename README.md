@@ -21,10 +21,10 @@ To indicate that your website is for a local business, you can use Schema.org st
     "@type": "ProfessionalService",
     "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Tracy",
-        "addressRegion": "CA",
-        "postalCode": "95304",
-        "streetAddress": "2223 Mount Pellier Street"
+        "addressLocality": "insert_city",
+        "addressRegion": "insert_state",
+        "postalCode": "insert_zip",
+        "streetAddress": "insert_address"
     },
     "name": "{{ company_name }}",
     "openingHours": [
